@@ -10,7 +10,7 @@ http.createServer(function (req, res) {
       <head><title>My Page</title></head>
       <body>
         <h1>About Me</h1>
-        <p>I am a student at Goldsmiths University of London studying Computer Science.</p>
+        <p>I am a student at Goldsmiths University of London currently studying Computer Science.</p>
       </body>
     </html>`);
 	} else if (req.url === "/contact") {
